@@ -1,0 +1,32 @@
+<View>
+  <Text name="text" value="$comment"/>
+  <Text name="current" value="$comment_type"/>
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+    <Header value="Choose tags"/>
+    <Choices name="tags" toName="text" choice="multiple" showInLine="false">
+        <Choice value="COMPLIMENT"/>
+        <Choice value="CLUTTER"/>
+        <Choice value="FINDABILITY"/>
+        <Choice value="DONT_KNOW"/>
+        <Choice value="INDIFFERENT"/>
+        <Choice value="PREFERS_COMPETITOR"/>
+        <Choice value="PREFER_OLDER"/>
+        <Choice value="LIMIT_INCREASE"/>
+        <Choice value="COMPLAINT"/>
+        <Choice value="BUG"/>
+        <Choice value="WANTS_LENDING"/>
+        <Choice value="SLOWNESS"/>
+        <Choice value="WANTS_PRODUCT"/>
+        <Choice value="WANTS_CUSTOMIZATION"/>
+        <Choice value="SUGGESTION"/>
+        <Choice value="DIFFICULTY"/>
+        <Choice value="GIBBERISH"/>
+        <Choice value="CUSTOMER_SERVICE"/>
+        <Choice value="DARK_MODE"/>
+        <Choice value="BLOCK_SCREEN"/>
+        <Choice value="COMPETITOR"/>
+        <Choice value="HIDE_INFO"/>
+        <Choice value="PRODUCT"/>
+    </Choices>
+  </View>
+</View>
