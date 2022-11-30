@@ -1,5 +1,4 @@
 from .base import Agent
-from .job_selection import select_best_job
 from ..company import Job
 from dataclasses import dataclass
 from typing import Optional, List
@@ -18,15 +17,7 @@ class Laborer(Agent):
     @cached_property
     def moderation_factor(self):
         return ((1 - self.discount_rate) * fp.polylog(-0.5, self.discount_rate)) ** 2
-    
-    def get_base_salary(self, price: float):
-        needs_cost = self.needs * price
-        limit = self.wealth_factor / self.moderation_factor
-        return limit * needs_cost / (limit + needs_cost)
-    
-    def get_max_consumption(self, price: float, salary: float, labor_ratio: float):
-        return 
-    
+            
     def accept_job(self, job: Job):
         self.job = job
         
@@ -40,8 +31,8 @@ class Laborer(Agent):
         """
         Optimal labor ratio given a salary, assuming the laborer starts with zero wealth and consumes the optimal amount.
         """
-        base_salary = self.get_base_salary(price)
-        return 1 - 2 * (salary / base_salary) * (sqrt(1 + salary / base_salary) - 1)
+        base_salary = self._get_base_salary(price)
+        return 1 - 2 * (base_salary / salary) * (sqrt(1 + salary / base_salary) - 1)
     
     def get_optimal_consumption(self, price: float, salary: float, labor_ratio: float):
         """
@@ -61,8 +52,29 @@ class Laborer(Agent):
         undiscounted_consumption_utility = consumption_step_utility(consumption, self.needs)
         return (undiscounted_consumption_utility + undiscounted_labour_utility + undiscounted_wealth_utility) / (1 - self.discount_rate)
 
-    def choose_job(self, jobs: List[Job], price: float):
-        return select_best_job(self, price, jobs)
+    def select_best_job_from_list(self, jobs: List[Job], price: float):
+        applicable_jobs = filter(self._is_skill_enough, jobs)
+        return max(applicable_jobs, key=lambda job: self._get_utility(job, price))
+
+    def _get_base_salary(self, price: float):
+        needs_cost = self.needs * price
+        limit = self.wealth_factor / self.moderation_factor
+        return limit * needs_cost / (limit + needs_cost)
+
+    def _is_skill_enough(self, job: Job):
+        return job.skill_requirement <= self.skill
+
+    def _job_utility(self, job: Job, price: float):
+        consumption = self.get_optimal_consumption(price, job.labor_ratio)
+        return self.discounted_expected_utility(job.labor_ratio, consumption, job.salary, price)
+
+    def _no_job_utility(self, price: float):
+        consumption = self.get_optimal_consumption(price, 0.0)
+        return self.discounted_expected_utility(0.0, consumption, 0.0, price)
+
+    def _get_utility(self, job: Job, price: float):
+        return self._job_utility(job, price) if job is not None else self._no_job_utility(price)
+
 
 
 def step_wealth_utility(wealth_at: float, mu: float):
