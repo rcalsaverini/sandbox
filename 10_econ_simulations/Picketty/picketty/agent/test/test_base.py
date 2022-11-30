@@ -15,3 +15,5 @@ def test_laborer_base_salary():
         base_salary = laborer.get_base_salary(price)
         assert base_salary >= 0.0
         assert base_salary <= limit
+
+
