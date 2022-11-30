@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 from typing import List
-from agent import Agent
+from ..agent import Agent
 
 @dataclass
 class Job:

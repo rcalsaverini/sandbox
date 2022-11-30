@@ -1,2 +1,0 @@
-class Economy:
-    price: float
