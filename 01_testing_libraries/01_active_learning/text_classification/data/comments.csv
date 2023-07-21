@@ -1,0 +1,473 @@
+task_id,response__id,comment,comment_type
+0,146578582,A parte de investimentos pra min hj nao e importante ,none
+1,146526985,Nao uso outro app,dont_know
+2,147037096,Sou apenas cliente e gosto do nubemk,none
+3,147055305,E dificil encontrar algumas funcoes como alterar limite.,none
+4,146856536,"No momento nao teria nada a acrescentar, pois esta tudo perfeito ",liked
+5,146815132,Tenho dificuldade as vezes.,none
+6,146776561,Sim nao to 100 % sastifeita com aplicativo compro e pago td sertinho meu limite nunca aumenta ,limit_increase
+7,146833190,Esta demorando pra abrir o app deveria ser mais rapido.,slowness
+8,146473930,Gostaria de ter acesso a opcao emprestimos ,lending
+9,146895767,Um aplicativo muito bom . So falta me dar mais limite kkkkkkk,none
+10,146682780,"Mudando de assunto, poderia aumentar meu limite de credito. Obrigado",limit_increase
+11,147028316,"Sim, que seja editavel ",none
+12,146897954,Nao tenho outro aplicativo de banco para saber ,dont_know
+13,146493009,"Ja falei anteriormente, como a pesquisa e longa, nao terei tempo de colocar todos os pontos",none
+14,146579436,"As vezes leva alguns segundos para carregar, e nao se trata da minha Internet, e sim do proprio aplicativo.",none
+15,146807348,Praticidade. Design mais bonito ,none
+16,146599751,Estava acostumado com o outro formato ,none
+17,146579679,Nunca abri 3 abas ,none
+18,146509613,"acho que poderia separar uma aba pro cartao de credito e outra pra conta, talvez ser algo modular, onde eu possa customizar.",none
+19,146553070,O shopping nubank poderia ter mais opcoes dentro da aba. Abrindo diretamente pelo app Nu.,likes_tabs
+20,146809932,"A tela inicial mostra um monte de servicos que nao utilizo e nao desejo, por exemplo informacoes da conta.",dont_know
+21,146829598,"Acho que tem muita informacao na tela inicial, muitos 'textos'. Acho que se fosse mais minimalista estaria melhor, na minha opiniao.",findability
+22,146821765,Tem outros apps com a tela inicial do mesmo nivel que a do Nubank ,prefers_competitor
+23,146824009,"Nao utilizo todas as informacoes apresentadas, uma tela mais limpa, e simples, facilitaria o uso.",none
+24,146812511,Questao do saldo em dinheiro era pra ficar mais escondido ,none
+25,146835825,Nao encontrei onde consigo fazer transferencia TED com facilidade.,none
+26,147048302,Algumas operacoes que precisei exemplo de extrato detalhado nao consegui ver na tela inicial ,findability
+27,146833770,"Pra mim, e bem completo. ",none
+28,146865277,Eu ja realizei os comentarios que justificam esta minha resposta nas respostas anteriores.,none
+29,146802911,Os outros apps dao mais credito ,prefers_competitor
+30,146865277,Eu ja justifiquei anteriormente o porque ela nao e a melhor.,none
+31,146882855,Por que demora um pouco pra ser iniciada,slowness
+32,146846746,"Concordo com ambas 2 perguntas iniciais, porem na terceira me permiti posicionar de forma indiferente, digo isso pois nao posso mensura possiveis mudancas, seja pra melhor ou pior, aos quais vao acontecer e desconheco -seja no designe ou outras funcoes-, como tambem em possiveis perdas de acessibilidade que nao valorizo muito atualmente mas posso sentir falta. Dito isso, apenas me isento pois ate o momento, nao tenho conhecimento do que eu quero plenamente.Obs:apesar disso, ha um saldo positivo em meu agrado.Desde ja, agradecido. ?",none
+33,146486862,"Nem sempre tem tudo, as vezes temos que mudar de tela! Ou seja de aba.",likes_tabs
+34,146882196,"Assim como no Banco do Brasil, a tela e bem organizada.",prefers_competitor
+35,146837204,"Tem algum item que precisamos rolar a tela para ser achado , acho que poderia ser mais facil algum item ou ter uma tela de pesquisa ",none
+36,146827259,A tela do Banco Inter e mais completa. ,prefers_competitor
+37,146835389,Poderia ser mais simples e de mais facil acesso a algumas opcoes!,none
+38,146846746,"Talvez fosse interessante a criacao de graficos, como de saldo/tempo, de rendimento ou de variacoes de moeda.",none
+39,146484897,Tem coisas que demora muito procurando ,slowness
+40,146579436,"Aplicativo Iti (itau) tem bem menos informacoes, interface mais limpa e mais facil de manusear. ",usability
+41,146467881,Outros aplicativos tem tudo na tela principal,prefers_competitor
+42,146458330,"As vezes da um bug no aplicativo, ao acessar, acho que nao e o telefone",bug
+43,146971159,Sempre melhorar para seu cliente ,none
+44,146835027,As configuracoes em relacao a ativar ou desativar a aproximacao ,none
+45,146857649,So na senha quando entra no aplicativo e chata demais que usa a senha da tela de bloqueio do celular ,block_screen
+46,147028613,Falta opcoes de forma clara e facil de vizualizar.,none
+47,146855007,Mais fluidez e rapidez ,none
+48,146887027,"Nao conheco tantos outros aplicativos de bancos, mas em geral sao todas parecidas",prefers_competitor
+49,146644991,Para mim esta bom,likes_tabs
+50,146505081,Uma aba ta bom ,prefer_older
+51,146804793,Banco ruim nao me dar aumento de limite nem emprestimo ,lending
+52,146838815,Faco uso de um aplicativo de uma corretora de investimentos e acho ele muito bom.,none
+53,146879567,Os investimentos  tenho que usar outro app e isso e  chato,none
+54,146825393,"As vezes trava muito, e nao e culpa da internet ",bug
+55,146804793,"Voces sao ruim to cansado ja desse banco ! Movimento todos os dias pago parcela antes do dia pago emprestimo antes do dia ! Ja se passaram quase 5 meses e voces nao dar aumento de limite e nem emprestimo! Santander, banco inter perfeito! Mais voces ruim demais vou parar de movimentar ",lending
+56,147154999,Poderia ser mais editavel de acordo com as preferencias do cliente,none
+57,146814655,A tela inicial do nubank e muito boa tem todas a opcao que desejamos ,none
+58,146853888,Visual nao muito moderno,none
+59,146250326,df gdsf gfds gf,none
+60,146962855,As telas precisam ser mais simplificadas...principalmente  a do pix...,usability
+61,146876820,"Falta os saldos, o que gastei durante o mes, ta dificil achar antes era bem explicito!!",findability
+62,146882317,Muitas vezes buga o saldo e as vezes nem carrega,bug
+63,146480686,Nao me deram mais cartao de credito entao nao posso dizer ,none
+64,146828632,"Como relatei anteriormente, as vezes me perco na tela inicial.",findability
+65,146865339,"Nao, esta pratico, e bem facil de se mexer ",none
+66,146547621,Cada banco com seu estilo.,none
+67,146832337,"Muito informacao, a confusao as vezes ",none
+68,146842656,Leia a mensagem anterior,none
+69,146828632,"A nova atualizacao ficou mais bonita e moderna, porem a funcionalidade antiga era melhor e mais pratico para se mexer.",none
+70,146475415,Eu gostaria de poder fazer recarga pelo aplicativo ,none
+71,147039243,Apenas a relatada na primeira questao.,none
+72,146919331,Como usuario basico as areas de emprestimo pra baixo nao uso. ,lending
+73,146473767,"Faz tempo que tenho ele e nao ainda nao aumentou meu limite, as vezes,pega da conta transformo em credito para usar,e eles nada",limit_increase
+74,146817323,"Retirar opcoes inuteis, ou deixar pelo menos personalizar, tipo algo mais modular",none
+75,146817741,Nao aparece tanta coisa ,findability
+76,146506433,Colocar abas de cartao de credito/ emprestimo e etc em telas separadas ,lending
+77,146513153,E dificil achar rapidamente o que necessita ,findability
+78,146554004,"Ainda nao usei muito as abas, principalmente os descontos. Mas para o dia a dia esta muito bem.",likes_tabs
+79,146902187,Adoro o app roxinho mais amado ,none
+80,146579436,"Tem muita informacao em um lugar, limpar essa interface e deixar minimalista seria bem melhor",none
+81,146866225,Nao conheco tao bem outros,prefers_competitor
+82,146866225,Muita informacao que gera uma desorganizacao ,none
+83,146823562,"Quero emprestimo e voces nao libera pra mim, Santander me libero 10 mil tenho Print se for necessario eu mostro !",lending
+84,146448988,Aplicativo otimo prefiro ele,liked
+85,146889821,E uma boa tela porem precisa trazer mas informacoes ,none
+86,146941226,Porque O q Aparece Ai nao e o mesmo saldo Meu ,none
+87,146488864,E um banco muito bom ,liked
+88,146866743,Bom dia  estou muito satisfeita  com o  aplicativo muito bem explicativo  ,liked
+89,146822844,Aprimorar e deixar mais interessante ,none
+90,146867917,E igual  as outras ,none
+91,146599751,"No formato anterior ja encontrava tudo o que precisava de forma facil, mesmo que tivesse que rolar a tela",prefer_older
+92,146821011,Depende do que quero ver no app ,none
+93,146579767,"Confuso,  sem uma expressao mais clean",none
+94,146902878,"Acho bem acessivel, facil de usar",none
+95,146879567,Ter modo escuro! Ou ate um roxo escuro #FicaDica,dark_mode
+96,146486841,"O telefone ou mensagem tem que ser com uma pessoa nao computador, pois tem coisas que ele nao sabe responder ",none
+97,146818083,Tem App melhores de se mechar ,none
+98,146487978,"Certas pesquisas sao mais dificeis, como p.ex. saber se um cartao virtual pode ter a funcao debito cancelada.",none
+99,146983878,"Nao acho muito facil de encontrar certos assuntos que procuro ,tenho algumas dificuldades ",none
+100,146594246,Nunca tive outro app,none
+101,146827435,Sempre ha como melhorar ,none
+102,146867296,Poderia acrescentar a foto no perfil da conta do cliente . ,none
+103,146861766,"Ja tive problemas algumas vezes com o carregamento do saldo mas no geral, acho que o uso e pratico ",bug
+104,146879567,Uso tambem  o C6 e acho ela mais facil e passa seguranca.,usability
+105,146837330,Queria poder criar uma senha para acessar o aplicativo. Uma senha que nao fosse a do meu celular,none
+106,146469059,Eu mesmo ja me compliquei tentando entrar no Aplicativo e tenho a um Bom Tempo minha conta nele ,none
+107,146489129,A tela anterior principalmente do pix era mais pratica ,prefer_older
+108,146858958,"Por melhor que sejam as coisas,um aprimoramento sempre e bom.",none
+109,146561083,Acesso mais rapido aos numeros dos cartoes e parcelas futuras seriam minhas prioridades de controle de acesso,findability
+110,146805834,"Melhoras sempre sao bem vindas, vejo que hoje o nubank tem uma tela inicial consistente que e de facil entendimento.",none
+111,146864578,Nao pensei nesse caso,none
+112,146804451,Tive muitos problemas com transicoes e pix no app,bug
+113,146477898,"pra ver as proximas faturas ou ate mesmo compras que fiz no mes em que a conta esta em aberto, eu nao tenho essa leitura logo de inicio ",findability
+114,146511920,nao invisto meu dinheiro pelo nubank e nao utilizo o shopping do nubank,dont_know
+115,147028814,As vezes nao fica claro que deve-se clicar em algo para seguir a operacao,none
+116,146485935,Isso e muito subjetivo ,none
+117,146810227,"Nem se compara. O BB, por exemplo, e muito mais pratico e agradavel em todos os sentidos ",none
+118,146967392,"Ja argumentei anteriormente na outra pergunta, espero que possa ser futuramente analisado.",none
+119,146919421,Pois as vezes ajuda e as vezes da uma complicada na hora da preca ,none
+120,147026592,Muito otimo pra se usar e facilita muito a gente ,liked
+121,146644991,"Nao acho q seja melhor,mas parecidas",none
+122,146857116,Minha convivencia de uso,none
+123,147048302,Poderia ter a opcao extrato,none
+124,146961248,Deveria ter uma opcao para cada tipo de servico ,none
+125,146943880,Parabens pelo excelente trabalho.,liked
+126,146528630,Nao tenho muita certeza ,dont_know
+127,146967392,"A principio e confuso em relacao a outra antiga tela, porem com o tempo, vc se adapta ao novo seguimento, considero a seguinte proposta, ao fazerem uma mudanca de layout como essa, mostrar como um teste temporario aos clientes e avisa-los, ate mesmo um teste experimental com a possibilidade de no final mostrar a antiga tela e avisar que a partir da data x, a nova tela testada sera utilizada permanentemente no aplicativo.",none
+128,146632003,Falta a opcao da fatura em sua tela inicial,findability
+129,146917308,App de facil acesso ,none
+130,146854918,"Nao utilizo outros bancos, entao nao posso avaliar",dont_know
+131,146476793,Achei muito bacana top,likes_tabs
+132,146848061,Nao utilizo nenhum outro app financeiro ,dont_know
+133,146632003,As vezes tenho dificuldade em localizar cada opcao,findability
+134,146947262,Eu gostaria de fazer um emprestimo para deixar em dia os cartoes mas nao tenho essa opcao disponivel,lending
+135,146804793,Banco ruim nao me dar aumento de limite nem emprestimo ,lending
+136,147133153,Sempre da uns minutos para carregar ,none
+137,146510561,Ana de shopping nao me interessa muito ,none
+138,146607732,Preferia antes entrava mais rapido no aplicativo ,prefer_older
+139,146813526,"Inclusao de outros servicos, como financiamento. ",prefers_competitor
+140,147154999,"Apresenta muitos topicos e topicos confusos, nao as vezes tem que ficar rodando na tela ate achar o que realmente quer.",none
+141,146509456,"Num primeiro momento, foi dificil a adaptacao",none
+142,147036433,E confusa. Mistura varias coisas.,none
+143,146865277,"A ideia e ter uma tela intuitiva.E intuitivamente, por exemplo, eu nao consigo achar facilmente o local onde eu visualizo os detalhes de cada mes das faturas do cartao de credito.Eu tenho que navegar por muitos menus ate chegar nesta informacao. Sendo que antigamente era super simples e facil.Ou seja, voces dificultaram o acesso inves de facilitar.",findability
+144,146493009,Deixa muito a desejar,none
+145,146867917,Sim ela mim mostra que e injusta pq tem seu cartao de credito  esta  bloqueado quando  eu paguei e estou  usando  o aplicativo podendo  esta usando  outro ,none
+146,146469842,Poderia ter uma legenda,none
+147,146487978,Nao tenho experiencia com outras telas,dont_know
+148,146876820,Mostrar os gastos na tela inicial!!!,findability
+149,146504808,A tela inicial poderia ser melhor dividida,none
+150,146473930,Voces sao os melhores!,none
+151,146504808,Eu nao utilizo as outras duas abas,likes_tabs
+152,146887011,"A tela inicial e muito intuitiva e pratica, mas nao considero a melhor acima de todas as outras, e boa simplesmente.",none
+153,146579140,Poderia ser mais simples ,usability
+154,146863219,As vezes demora para carregar ,slowness
+155,147004917,Mes passado eu tive problemas ao fazer um pix,bug
+156,147016904,"As vezes nao e tao intuitiva assim, mas procurando acabo encontrando o que quero. ",none
+157,146555784,"Para o meu uso, a tela anterior era melhor. Porem, nao uso todos os recursos do app",dont_know
+158,146903455,Nao me interessa shoppings ,none
+159,146482222,adorei as novas mudancas ,likes_tabs
+160,146636635,Nao estou utilizando as respectivas funcoes no momento.,none
+161,147039155,Poderia usar o mesmo celular para logar mais de uma conta nubank ,none
+162,146861534,Gostaria de ter acesso mais facil sobre o dinheiro investido ,findability
+163,146941226,Como dito Ta bom,none
+164,146832329,So poderia ter a opcao de emprestimo,lending
+165,146802911,"Ajudar mais o cliente, ainda mais sendo cliente correto",none
+166,146811434,"Ha muitas informacoes na tela inicial que nao tenho interesse. Ex: Shopping, seguros e insvestimentos",findability
+167,146554380,"A ultima aba ainda e pouco interessante porque encontro poucas ofertas relevantes para meu padrao de consumo (artigos esportivos, eventos e geek)",likes_tabs
+168,146846746,Nao tenho conhecimento o suficiente de outros banco para opinar.,dont_know
+169,146813779,"Na opcao investimento deveria ser mais  simples possivel , no meu caso iniciante , nao e muito facil ",none
+170,146979778,"De vez em quando ela da umas travada, mas de resto muito boa, bem simples de entender, ",bug
+171,146963230,"Alem do melhor dia para compra no cartao de credito,  precisa ter um lembrete da data de pagamento.  ",none
+172,146709807,Deveria ser mas prastica,none
+173,146811001,"Seria interessante ter um sistema para guardar o dinheiro como se fossem 'envelopes' e que pudessemos colocar nomes em cada um, assim seria facil ir guardando o dinheiro que ja tivesse um destino certo.",none
+174,146882317,"Tenho uma sugestao a respeito das contas pj, poderiam separar as contas e fazer login separado",none
+175,147072984,Bem explicativo a tela inicial ,findability
+176,146461572,Muitoo ruim e ruim ,none
+177,146509456,Nao tenho parametros suficientes,dont_know
+178,146809660,Nao ate agora ta tudo ok nada a acrescentar ,none
+179,146492351,Podemos melhorar otimizando itens e suas entregas de acordo  com os anseios e estatistica de utilizacao media de todos os usuy,none
+180,146862171,"Algumas opcoes das quais mais uso poderia ficar diretamente no inicio ao inves de ter q procura-las, assim facilitando meu acesso e realixando melhor minhas necessidades e objetivos",findability
+181,146838815,"Como disse, existem opcoes meio ocultas e dificeis de acessar.",none
+182,147072984,Esta legal a tela meu ,none
+183,146890697,O app do Itau tem a tela inicial mais agradavel ,prefers_competitor
+184,146915832,"Os outros aplicativos apresentam icones que mais preciso acessar, o qual nao e apresentado pelo nuconta ",prefers_competitor
+185,147028570,Poderia ser icones mais amplos,none
+186,147110444,Nao pensei sobre o assunto ,none
+187,147057097,Telas de facil acesso e ,none
+188,146701861,muito bom sem palavras aplicativo facil de usar as 3 abas sao excelentes tudo que preciso ali ja me encontro facil muito bom mesmo,likes_tabs
+189,146486862,"Pra mim ta otimo, mais se o Nubank quiser melhorar mais !Eu vou achar bom.",none
+190,146840745,Deveriam trabalhar com menus tal qual a tela do C6 mais facil de achar as opcoes ,usability
+191,146835389,"Mais ou menos, as vezes trava e tem bugs",bug
+192,147101412,"Poderia ter icones diretos e nao que levam a outras tantas mil coisas pra fazer uma simples coisa, como fazer um pagamento via pix,por exemplo",findability
+193,146865277,"Ela e muito palida.Poderia ter um pouco mais de contraste (oi bordas) para limitar cada uma das areas (conta corrente, cartao de credito, nuinvest etc)",none
+194,147027026,"No momento, as telas desse dispositivo, tem atendido as minhas expectativas. ",none
+195,146557391,Nao tenho experiencia com outros,dont_know
+196,146900565,"Apenas ter mais algumas opcoes. Mais opcoes, se bem organizadas, facilitam mais a interacao com tudo que o aplicativo tem a oferecer.",none
+197,146803761,O chat demoram de responder e as vezes nao conseguem resolver o que preciso ,none
+198,146816987,A disposicao das informacoes e otima,findability
+199,146816600,Ter a opcao de transferencias TED ao lado da do Pix.,findability
+200,146810227,Tenho que ficar procurando as informacoes que preciso,findability
+201,146896562,Nao obrigado Queria um credito maior de 500,limit_increase
+202,147028814,A tela inicial demora a atualizar o saldo da conta apos as operacoes ,slowness
+203,146809932,Muitas informacoes de servicos que nao utilizo e que nao gostaria que fossem mostrados.,dont_know
+204,146532465,Nao e muito dificil entender ,none
+205,146928862,Pra mim esta otimo facil de usar,liked
+206,146899004,Pq falam as coisa e nao comprem ja faz 2 anos que estou pedindo aumento do meu limite e nada,limit_increase
+207,147039243,"Preferiria que nao houvesse elementos dispostos em rolagem horizontal, as vezes provoca conflito com gestos da interface do dispositivo.",none
+208,146849622,O aplicativo e muito bom ,liked
+209,146250326,df gsdf sdf gfsd ,none
+210,146921502,Adriana Rodrigues de Souza,gibberish
+211,146804951,Trava mt ainda mais no iphone,bug
+212,146883007,Algumas pessoas vai demorar de aprender,slowness
+213,146989463,Devagar demais pra abrir,none
+214,146855007,Para o meu uso as vezes tenho que ficar procurando e caso eu mude de app tenho que logar novamente ,findability
+215,146580730,E mais pratico o acesso ,none
+216,146970152,"Melhor banco q ja vi, nubank e melhor ",none
+217,146817977,Gosto fa tela inicial do nubank,findability
+218,146900565,"A tela inicial e excelente. Porem, pra mim, perde com relacao a tela inicial do banco inter. La eu consigo ter mais opcoes com uma facilidade maior.",prefers_competitor
+219,146896027,Emprestimos e outras coisas mais usaveis ,lending
+220,146505081,Uma aba ta bom demais ,prefer_older
+221,146716365,Nao posso da uma opiniao se nao consigo ver e nem entender nada.,none
+222,146872837,"As vezes trava no valor disponivel da conta, ele nao fica visivel ",bug
+223,146632003,"As vezes tenho dificuldade em encontrar a fatura, porem nao desgosto da tela inicial",findability
+224,146840772,Varios aplicativos sao melhores na tela inicial ,findability
+225,146613158,"Comum, lembra o c6",none
+226,146513279,As constantes mudancas confundem o local usual onde geralmente vou para encontrar o que eu preciso,none
+227,146716365,"Nao posso da uma resposta, se nao consigo ver e entender nada",none
+228,146493009,"Tenho curso superior e fico meio perdida, imagina minha mae que e idosa que tambem tem o app",none
+229,146840862,Todas as funcoes sao bem explicativas adoreu,likes_tabs
+230,146839904,Aplicativo muito bom e facil de manusear ,liked
+231,146918317,O problema e a burocracia pra conseguir um credito ou algo do tipo.,none
+232,146484897,Tem coisas dificeis de encontrar ,none
+233,146558756,Nao. So queria aumento de limite mesmo. Obrigada ,limit_increase
+234,146998619,Alguma informacoes nao estao na tela inicial ,findability
+235,146832440, Otimo aplicativo facil de usar ,liked
+236,146555784,Nao acesso as outras abas,indifferent
+237,146814881,Pois fica carregando e nao e por questoes de acesso a internet ,none
+238,146810361,Muito bom ta de parabens ,liked
+239,146471993,Nem notei que tinha mudado,dont_know
+240,146581261,"Nao,,tudo otimo, continuem .",liked
+241,146803975,Poderia ter a opcao de cambio com o valor do cambio do dia!,none
+242,146942387,Nao conheco muitos pra comparar ,none
+243,146816416,Acho que esta mais relacionado ao aparelho do que ao aplicativo em si.,none
+244,146926551,Nao tenho muito o que falar,dont_know
+245,146865211,Melhor Banco melhor App ,none
+246,146804948,O saldo as vezes nao parece ,none
+247,147038938,Tinha que ter as opcoes de pix separados..As vezes no rapido esqueco onde fica algumas coisas que fica dentro da area pix..Ex pix celular Pix CPFPagar boleto,findability
+248,146493009,"Pra mim demora as vezes para carregar, pode ser a minha internet",slowness
+249,146804922,poderia organizar mais um pouco.  ,none
+250,146892072,As vezes preciso acessar outros menus para encontrar o que procuro.,findability
+251,146866225,Pq nao tenho certeza,dont_know
+252,146489378,Nao achei grande coisa ,none
+253,146505081,Uma aba ta bom ,prefer_older
+254,146874891,Nao esta tudo facil de achar,none
+255,146838815,Ainda acho algumas opcoes muito “engessadas” e dificeis de serem encontradas.,none
+256,146816600,Poderia ter a opcao de fazer transferencias TED ao lado do Pix.,findability
+257,146472383,"Pra mim esta de boa, as tres abas, porem acho que o nu invest deveria ser integrado ao app do nubank, ser apenas um app ",likes_tabs
+258,146665903,Os icones sao feios ,none
+259,146664375,Pra mim ta bom,likes_tabs
+260,146526210,"As 3 abas facilitam bastante, porem, na minha opiniao, adicionar uma aba para cartoes facilitaria ainda mais ",none
+261,146855007,"Algumas coisas sao pequenas de ver, exemplo o limite disponivel do cartao de credito ",limit_increase
+262,146817982,Ja aconteceram algumas vezes de nao carregar os dados do cartao e eu precisar ficar atualizando a tela para que aparecessem ,none
+263,146828632,"As vezes tenho dificuldade em encontrar oq preciso, apos a atualizacao o app ficou mais bonito, porem nao tao facil como era antes.",prefer_older
+264,146250326,dsf g dfg sdf,none
+265,147028613,Menu de opcoes nao e tao completo. ,none
+266,146876820,"Ta rapido mas onde gastei nao to achando, nao recebi as ultimas atualizacoes dos meus gastos!!",none
+267,147028316,"Saldo, grafico de controle pessoal, chave pix atalho, fatura dos cartoes , tem muito a melhorar. Falta uma area, inclusive, pra anotar recomendacao pro Nubank e falta opcao pra fazer anotacoes sobre transacoes. As vezes faco um pagamento e nao posso anotar a que se destinou esse pagamento ",findability
+268,146840518,Nao e bom pra caralho mas tambem nao e ruim pra caralho ,none
+269,146776561,O meu sempre trava as vezes nem consigo acesar o aplicativo ,bug
+270,146815132,Nao uso outros bancos.,dont_know
+271,146819944,As vezes trava um pouco e tenho que reiniciar o aplicativo ,bug
+272,146804793,Banco ruim nao me dar aumento de limite nem emprestimo ,lending
+273,146250326,dfs gdsf gsfd gfsd,none
+274,146821011,Ao meu ver sao iguais ,none
+275,146554380,"Sinceramente, momentaneamente fica mais organizado mas nao muda minha experiencia.",none
+276,146887943,Falta opcao de pedir emprestimos,lending
+277,146510561,"Preferia a versao antiga, achava mais facil de entender.",usability
+278,146844381,As vezes demora pra abrir a tela ,slowness
+279,146460159,"Falta algumas informacoes, principalmente para credito/ investimento ",findability
+280,146886965,Muito ruim a parte do cartao de credito! Poderia ser mais explicativa! Falta aplicar como exemplo: DIA DA MELHOR COMPRA!,none
+281,147067324,Falta melhor acesso a area de cartao de credito ,findability
+282,146858217,Uso outros apps tbm mais a nubank super supre as minhas necessidades,prefers_competitor
+283,146475750,As vezes elas demoram nas transacoes e as vezes travam ,slowness
+284,146803069,"Tela demora um pouco a abrir... e se saio da tela por um segundo, tenho q entrar com senha novamente.",block_screen
+285,147065223,As vezes nao consigo entender nada ,none
+286,146832329,Acho que ja poderia ter a opcao de emprestimo ,lending
+287,146505857,Eu acho muito bom o nu mas eu acaide decepcionado pois ja tempo QE o uzo e nao reci nenhum limete e sempre coloco dinheiro nele encluzive c tive limite eu usaria somente ele ,none
+288,146991297,Gostaria que a opcao de limite de credito fosse omitida do app. ,limit_increase
+289,146805525,A tela inicial esta perfeita ?,likes_tabs
+290,146479974,Sempre pode ter algo a mais,none
+291,146570456,Navegar pela area do pix e complicado ,usability
+292,146803484,Antes a interface era mais simples e facil de encontrar as coisas. Hoje em dia parece que tem tanta informacao e opcoes que as vezes me perco. Talvez uma customizacao individual.,prefer_older
+293,147028613,Se fosse uma tela inicial como a do mercado pago ou picpay seria perfeito.,prefers_competitor
+294,146475750,Colocar mais atalhos e menos travamentos ,bug
+295,146812929,Cada um e diferente do outro.,none
+296,146716365,Nao sei ainda nao usei nada.!,dont_know
+297,147069556,Nao ha tantas diferencas ,none
+298,146858929,"Alguns icones precisam ser mais intuitivos, precisa de atalhos para outros servicos, como FGTS, NuInvest, etc",none
+299,146451298,"Gostei das abas, nao tenho como comparar pois so usei aqui",likes_tabs
+300,146809932,"Apos a migracao do nubank para banco, com oferta de conta, emprestimos, etc, o foco deixou de ser o servico de cartao de credito, que e o que utilizo.",lending
+301,146995052,O app e muito bom ,liked
+302,146493009,Tempo muito mais pratico sem duvidas,none
+303,146835389,Falta algumas coisas pra ficar melhor ,none
+304,146629544,"Ha outras informacoes uteis para serem inseridas, como o tipo de gasto, a frequencia daquele tipo de gasto, etc.",none
+305,146807348,Nao e facil encontrar ,none
+306,146835389,E mais ou menos ,none
+307,146513279,Area de shopping nao e muito relevantw,none
+308,146469059,Pois muitas vezes pode parecer uma transparencia Facil mas pra muitos pode complicar por Exemplo Eu as vezes  tenho dificuldades em entrar no Aplicativo Nubank ,none
+309,146452485,"Talvez fosse interessante pensar a opcao de poder desabilitar abas, conforme a necessidade do usuario. No meu caso, utilizo apenas a primeira aba, e nao tenho o que questionar, me atende muito bem.",likes_tabs
+310,146887839,Muitas volta pra encontrar a fatura detalhada ,findability
+311,146882196,Houve situacoes em que nao se carregava/ abria nem a area PIX e nem o saldo era informado.,bug
+312,146870276,"Ainda um pouco na fase de adaptacao ao novo modelo, pois certo dia demorei para achar o QRCODE para pagarem para mim, mas nada que nao achemos com calma.",none
+313,146828632,"No comeco tive um pouco de dificuldade para encontrar algumas coisas, ate hj na verdade, as vezes me perco, se e algo que preciso fazer rapido tenho q ficar procurando.",findability
+314,146462563,Gostaria que fosse mas simples e mas intuitivo seria bem melhor ,none
+315,146823164,Nao para mim simplesmente perfeito .,liked
+316,146505081,Uma aba ta bom ,prefer_older
+317,146887353,Para mim esta otimo mas poderia melhorar,none
+318,146873764,A tela do banco Bradesco e mais clara e tem mais opcoes ,prefers_competitor
+319,146898238,E o melhor APP de banco que ja tive. E perfeito.,liked
+320,146832337,A necessidade de maior detalhamentos ,none
+321,146804793,Banco ruim nao me dar aumento de limite nem emprestimo ,lending
+322,147025028,Melhor cartao de todos ,none
+323,146506433,Nao tem a parte de investimentos e nao aparece aba de emprestimos e etc,findability
+324,146456704,Algumas coisas ficou dificil achar ,findability
+325,146632003,"Em outros me localizo mais facilmente, infelizmente. Porem nubank ainda e meu cartao preferido.",prefers_competitor
+326,146493009,"Perdi a paciencia procurando a parte de emprestimo que negociei, quando achei nao aparecia a data de vencimento dos emprestimos",findability
+327,146599751,Icones nao familiares. Tive que entrar em cada um deles para saber o que se tratam ,none
+328,146866025,"Meu Limite Do Cartao de Credito nao aumenta,ja tem quase 3 anos que uso o cartao",limit_increase
+329,146989463,Era pra ser tudo no comeco ,none
+330,146865277,"Poderia haver um segundo menu de rolagem horizontal especifico para as informacoes do cartao de credito (desbloqueio de cartoes, detalhes das faturas de cada mes, ajuste de limite etc)",findability
+331,146840772,Nao tem tudo que preciso acessar facilmente ,none
+332,146863662,devia ser mais ajustada,none
+333,146561083,Nao acho facilmente os cartoes e as faturas futuras,none
+334,146490180,Gosto do modo antigo.,prefer_older
+335,146554380,Mesmo tendo uma Internet 4g com bom sinal eu experimento travamento na ultima aba ('shopping'),bug
+336,146506433,Outros bancos sao mais facies como o do bitz,prefers_competitor
+337,146901685,"Nao, na minha opiniao esta otimo! ",liked
+338,146867296,"Para completar, poderia acrescentar a foto do cliente no aplicativo. ",none
+339,146584081,No uso outro ap so o do nu Bank,none
+340,146804793,Banco ruim nao me dar aumento de limite nem emprestimo ,lending
+341,146625245,Nao acho necessario tantas abas poderia ser uma aba so.,none
+342,146827435,Acrescentar o modo escuro ,dark_mode
+343,147006089,Existem outros bancos com telas mais simpled,prefers_competitor
+344,147045881,Um otimo banco tem um grande futuro pela frente.,liked
+345,146465772,Nao facilitaram em nada. ,none
+346,146886554,Aos outros sao tambem muitos bons super rapidos ,prefers_competitor
+347,146874891,As informacoes das opcoes nao estao claras e visiveis de achar,findability
+348,146917364,"Gosto qdo mostra o extrato qdo abro a tela e informacoes em grafico sobre meus gastos, ex. Alimentacao, transporte, saude ",findability
+349,146493009,"Achei confuso a nova configuracao, nao facilita a localizacao dos itens. ",none
+350,146812956,Pois so tenho esse App financeiro ,none
+351,146842656,Graficamente a distribuicao das informacoes nao e a mais atrativa. Mas tem uma interatividade ok e resolve tudo com poucos cliques ,none
+352,146563358,"Nada a declarar , foi bom.",none
+353,146579767,"Para localizar alho e dificil ,  informacoes complexas demais",findability
+354,146562397,As vezes  nao consigo tirar duvidas e nem mudar senha...,change_password
+355,146526364,Ter acesso ao limite .. mais pratico e direto,findability
+356,146844804,"Tem tudo facil, so a parte de investimentos que gostaria de ser mais acessivel. Fundos, Aplicacoes, e simulacoes de investimentos.",none
+357,146833339,Nao muito bem a pergunta mas respondi,none
+358,146805200,"Outros apos de banco tem a tela inicial mais intuitiva, com informacoes mais rapidas de serem acessadas ",prefers_competitor
+359,147055305,Gostaria de um menu geral.,none
+360,146883613,Ja pesquisa como encontrar alguma informacao que queria pq n achei no app,none
+361,146840772,Nao e dificil mas tambem nao e facil ,none
+362,146975339,As vezes acho um pouco dificil encontrar determinada funcao ,none
+363,146821691,Poderia funcionar sem internet tambem ao entrar no app .,none
+364,146805441,Tem certas utilidades ali desnecessarias,none
+365,146464799,sim tudo que ajuda edifica. ,none
+366,146805200,Os botoes para acessar o cartao de credito e lancamento das compras sao confusos ,none
+367,146484535,Deveria ter na tela inicial a opcao de configuracao ,findability
+368,146877692,Nao conheco muito sobre a tela inicial de outros aplicativos. ,prefers_competitor
+369,146510561,"Muita informacao, eu fico meio perdido as vezes.",none
+370,146250326,sdf gsdf sgdf fs,none
+371,146827259,Deixar a funcao de emprestimo um pouco mais escondido. ,none
+372,146557391,"As vezes nao aparece o valor da fatura sendo 'escondido' pelo valor de outra fatura, como do emprestimo por ex.Eu gosto de ter facil acesso a tudo",lending
+373,146471147,"Na aba do app esta faltando a opcao de emprestimo,Estou precisando desta opcao! Kk ",lending
+374,146554380,Uma aba somente para configuracoes seria mais util pensando em acessibilidade (caso dos meus pais),none
+375,146919331,"Assim como ha icones na area Conta, poderia haver alguns icones para facil aceso na area de Cartao de credito ",none
+376,146917364,Baseado na resposta anterior.,none
+377,146915265,Informacoes tipo de investimentos nao seriam necessarios em tela principal ,findability
+378,146512336,Sim sempre que entro logo se desbloquear gosto muito ,none
+379,147089467,"Bom dia. Nesse caso precisamos pensar muito bem antes de tomar uma decisao importante, para que depois nao arrependamos e lentamentamos com ocorrido.",prefer_older
+380,146877737,Nao tenho conta em outro banco ,dont_know
+381,146842440,"A proposta inicial da Nubank era o cartao de credito, entao sugiro que as opcoes de cartao voltem para o topo da tela e, em segundo lugar, as opcoes de conta corrente. ",none
+382,146921502,Adriana Rodrigues de Souza,gibberish
+383,146636635,Acredito que seria possivel adicionar mais informacoes.,none
+384,146791325,Precisaria ter mais informacoes ,none
+385,146917712,A tela inicial nao e a tela pra popups ou anuncios de produtos… fica muito melhor a experiencia se isso ficasse em segundo plano caso entre na tela de credito… por notificacao ok… mas na inicial nao acho interessante…,none
+386,146811139,A tela inicial so falta destacar as cores mais escuro em saldos em numero pra melhor ver ,findability
+387,146479974,Nao conheco outro app ,none
+388,146808896,"Diversas vezes, a tela inicial trava e nao abre de jeito nenhum. Inpossibilitando resgatar o dinheiro guardado ou efetuar pix, ou ate mesmo vizualizar o saldo. Provavelmente por minimas instabilidades na rede, mas mesmo assim, ja deixou a desejar tanto pra mim, quanto pra varios conhecidos.",bug
+389,146843877,Dificil de achar o cartao de credito,findability
+390,146557687,Gostei da nova interface,likes_tabs
+391,146810227,Nao me agrada o estilo e o fato de nao ter as informacoes de modo pratico e acessivel ,findability
+392,146804099,As vezes demora um pouco pra carregar as informacoes ,slowness
+393,146932074,Nao aparece a opcao de Emprestimo ,findability
+394,146562397,"Para no. Esta otimo! Porem devia te um atalho para modificar a senha mais rapido facil e pratico com o numero e CPF do titular, mas essa e minha opiniao!",change_password
+395,146804816,"So gostaria que fosse como era antes tudo roxo e em baicho , as opcoes que estava antes, gostava daquela opcao!",prefer_older
+396,146867296,E bem intuitivo e de facil acesso. Tudo bem simples e rapido. ,liked
+397,146918092,Nao conheco outras telaa,none
+398,146544239,Nem sei qual e essa terceira aba ,likes_tabs
+399,146861534,Creio que outros aplicativos de banco oferecem facilidades de acesso em tela inicial tambem ,prefers_competitor
+400,146835027,Existe certas informacoes que nao aparecem ,findability
+401,146716365,Nao existe perfeicao em tudo.,none
+402,146828066,So tenho experiencia com o app do Nubank,none
+403,146802894,"Melhor aplicativo de banco que tenho, parabens!",none
+404,146832194,As vezes trava na parte do pix.,bug
+405,146946606,Na minha opiniao  no cartao  poderia  melhorar  mais pra ter a opcao  de munda pra credito  ou debito  ,none
+406,146492326,"Muito intuitivo,  porem devia ter a barra pesquisar, aumentaria a dinamica do app",none
+407,146506433,Eu tenho que procurar um pouco ate achar algumas informacoes especificas ,findability
+408,146814940,"Tds estao atras de acessibilidade, nao e exclusividade do Nubank.. Existem varios apps que sao bastante intuitivos assim como nubank",none
+409,146506750,Preferia antes sem abas ,prefer_older
+410,146676835,Quero uso de mais senha,none
+411,147169979,Deveria colocar o cartao virtual e conta mais visiveis. ,none
+412,147057097,Telas de facil acesso e muito simples o entendimento.,none
+413,146806776,O pix poderia ser mais facil de usar nas opcoes ,usability
+414,146561083,Nao me interessa shopping e financas,none
+415,146489378,Nao fez diferenca  para mim,none
+416,146811001,"As vezes a tela simplesmente fica vazia, como se nao tivesse nada na minha conta, mas o meu nome permanece la",bug
+417,146855007,Tem outros app que uso um pouco melhores ,prefers_competitor
+418,146540201,"Essa optimizacao facilitou muito na agilidade do aplicativo, fora que melhorou bastante o visual de entrada, meus parabens aos desenvolvedores. Nada a reclamar ",none
+419,146598172,Tem servicos que fica dificil de achar e usar,findability
+420,146490117,"Gostava do modo antigo, mas por mim tudo bem  ",prefer_older
+421,146893888,Melhoria na funcao bloqueio e desbloqueio do cartao. Deveria ser de facil acesso no tela inicial.,findability
+422,146835825,"Tema escuro, por favor! Doi muito abrir o app e tomar aquele clarao no rosto",dark_mode
+423,147038938,No meu caso demora sim.. ate pelo fato de ter que entrar nas opcoes para procurar algo..Acaba perdendo tempo.. se ja tivesse tudo especificado direto na tela vai ser mais rapido.. As vezes precisamos fazer um pix pagar um boleto e estamos no servico e preciso que seja rapido.. ,slowness
+424,146878189,O valor investido fica separado da quantia que tenho guardada,none
+425,146998619,Outros bancos tem a tela inicial mais explicita ,prefers_competitor
+426,146833628,Esta bom do jeito que esta ,likes_tabs
+427,146805100,As vezes e facil entender as coisas ,none
+428,146557391,"De vez em quando nao abre com tamanha rapidez, tenho que fechar e abrir novamente pois senao fizer, fica carregando por minutos",none
+429,146530740,Cada app tem seus detalhes e aparencias,none
+430,146661089,Preciso que libere a opcao de emprestimo pra mim ,lending
+431,146883007,Depende do aparelho de celular ,none
+432,146804451,Acho bem pratico e facil ,likes_tabs
+433,147004917,Falta um pouco mais e icones ,none
+434,146810227,"Acho a tela inicial confusa, assim como os lancamentos do mes ",none
+435,146803069,Demora um pouco a carregar.,slowness
+436,146562771,Gostaria de mais opcoes de cartao ,none
+437,146946606,Tela inicial  e  muito facil de  entender  ,none
+438,146858958,Mais movimentacao com as figuras seria uma boa,none
+439,146502156,Quase  nao senti diferenca sei que sempre buscam aprimorar porem a diferenca foi muito sutil  ,none
+440,146804922,poderia melhorar so mais um pouco.  ,none
+441,146858929,Cada banco possui o app que atende suas necessidades ,none
+442,146802911,Nao pois nao aprova oque precisa ,none
+443,147048302,"Nenhum, o que preciso ja justifiquei em respostas anteriores",none
+444,146814881,"Ela e o que tem que ser,util e facil de ser entendida ",none
+445,146580888,Gostei das 3 Abas fica mais facil O acesso ao app,likes_tabs
+446,146533039,Precisa de mais alguns botoes. ,none
+447,146464799,ta otima mais  podemos melhorar ainda mais .,none
+448,146895243,E um dos melhores a tela de inicio estou em debito ainda mas irei pagar meu debito uma boa noite,none
+449,147028814,O saldo na tela inicial demora a atualizar no App (iOS),slowness
+450,146496966,Poderiam ter a opcao de imprestimo nas abas,none
+451,146915314,Mostrar o saldo da conta corrente e tambem o dinheiro guardado ,none
+452,146561083,O app do Banco do Brasil e melhor e mais intuitivo ,prefers_competitor
+453,146822930,Ela e bem completa e nao ha nada que precisa ser mudado.,none
+454,146855007,Acho demorado comparado a outros app de banco ,prefers_competitor
+455,146833390,"Gosto da organizacao da tela inicial, e me atende muito bem.",findability
+456,147084013,Nao utilizo tanto as funcoes e atalhos disponibilizados na tela inicial.,dont_know
+457,147028316,Impossivel editar o que me interessa.,none
+458,147069556,E de facil entendimento ,none
+459,146582549,Sao muitas informacoes isso ajuda mas so deveria ser mais dividas ,none
+460,146624024,Poderia ter a opcao de bloquear e desbloquear o cartao ja na primeira tela,none
+461,147039036,Meu limite cartao credito ,limit_increase
+462,146918092,Ainda tem muita burocracia ,none
+463,146835389,"Tem opcoes que sempre estao muito escondidas, e necessario varios cliques para ter acesso a tal!",findability
+464,146902187,As vezes o App trava ,bug
+465,146964393,Outros apps sao tao rapidos quanto,prefers_competitor
+466,146942330,"Excelente, rapido e de facil entendimento ",liked
+467,146868912,Nao consigo ter uma ,none
+468,147013857,Tem outros aplicativos que julgo mais completo,prefers_competitor
+469,146504808,Os icones nao sao intuitivos,none
+470,146552572,Muitas vezes nem abre o aplicativo.  Que o aumento aplicativo que n  de indisponivel quando mais Presciso. ,none
+471,146776561,Nem td que procuro consigo encontrar no aplicativo ,findability
