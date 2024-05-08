@@ -1,0 +1,62 @@
+training:
+  seed: 44
+  mini_batch_size: 32
+  grad_accumulation_steps: 5
+  max_steps: 100
+  limit_val_batches: 10
+  val_check_interval: 10
+  gradient_clip_val: 0.5
+  precision: "16-mixed"
+  matmul_precision: "high"
+  tokenizer:
+    event_attributes_tokenizer_path: "s3://blabla/blablabla"
+    event_types_vocab_path: "s3:/furiculi/furicula"
+  streaming_paths:
+    train_streaming_dataset_path: "s3://blabla/blablabla"
+    valid_streaming_dataset_path: "s3://blabla/blablabla"
+  architecture:
+    embedding_dim: 128
+    attributes_max_length: 100
+    event_window_size: 100
+    sequence_model_num_layers: 2
+    language_model_num_layers: 2
+  learning_task:
+    train_binary_tasks:
+      - life_insurance_30_days
+      - life_insurance_7_days
+      - mobile_insurance_30_days
+    train_regression_tasks:
+      - next_event_amount
+    train_losses_alphas:
+      next_event_type: 1.0
+      life_insurance_30_days: 1.0
+      life_insurance_7_days: 1.0
+      mobile_insurance_30_days: 1.0
+  buffer_shuffle:
+    enable_buffer_shuffle: true
+    shuffle_buffer_size: 1000
+  train_dataloader:
+    num_workers: 32
+    prefetch_factor: 10
+    streaming:
+      shuffle_shards: true
+      read_buffer_size: 128  
+  valid_dataloader:
+    num_workers: 32
+    prefetch_factor: 10
+    streaming:
+      read_buffer_size: 128  
+scoring:
+  batch_size: 32
+  num_workers: 16
+  matmul_precision: "high"
+  score_on_cpu: false
+  streaming_config:
+    read_buffer_size: 1200
+  tokenizer:
+    event_attributes_tokenizer_path: "s3://blabla/blablabla"
+    event_types_vocab_path: "s3:/furiculi/furicula"    
+  ckpt_path: "s3://blabla/blablabla"
+mlflow_secrets:
+  secret_path: "s3://fulanito/fulanito"
+  experiment_name: "arataquack-the-duck"
