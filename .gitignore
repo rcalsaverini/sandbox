@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Parquet
+*.parquet
+
 # C extensions
 *.so
 
