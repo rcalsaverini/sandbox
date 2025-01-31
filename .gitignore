@@ -163,3 +163,7 @@ cython_debug/
 #.idea/
 
 .DS_Store
+
+06_types/01_fixpoints/haskell/.stack-work
+06_types/01_fixpoints/haskell/stack.yaml.lock
+06_types/01_fixpoints/haskell/haskell.cabal
