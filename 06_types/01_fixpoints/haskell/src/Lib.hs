@@ -1,6 +1,4 @@
-module Lib
-    ( someFunc
-    ) where
+module Lib (ShowableFunctor(..)) where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+class ShowableFunctor f where
+    showF :: (Show a) => f a -> String
