@@ -1,0 +1,31 @@
+[project]
+name = "sandbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "algebraic-data-types>=0.2.1",
+    "beautifulsoup4>=4.13.4",
+    "click>=8.2.1",
+    "dynaconf>=3.2.11",
+    "ipdb>=0.13.13",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.3",
+    "mingus>=0.6.1",
+    "networkx>=3.4.2",
+    "numpy>=2.2.5",
+    "ollama>=0.4.8",
+    "openai>=1.78.1",
+    "pandas>=2.2.3",
+    "pdfminer-six>=20250506",
+    "pikepdf>=9.7.0",
+    "pydantic>=2.11.4",
+    "pymupdf4llm>=0.0.24",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.3",
+    "selenium>=4.32.0",
+    "textract>=1.5.0",
+    "tqdm>=4.67.1",
+    "unidecode>=1.4.0",
+]
